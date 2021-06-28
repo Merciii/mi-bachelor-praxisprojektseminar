@@ -45,5 +45,5 @@ Livesendung, mehr Klicks in Social Media generieren zu können.
 
 ## Material & weiterführende Infos
 
-- [Repo zum Praxisprojekt Seminar](https://https://github.com/Merciii/Praxisprojekt-2021
+- [Repo zum Praxisprojekt Seminar](https://https://github.com/Merciii/Praxisprojekt-2021)
 
